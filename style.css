@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #eaf2ff; /* biru muda */
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  color: #1e40af; /* biru tua */
+}
+
+p {
+  color: #1f2933;
+}
+
+a {
+  display: inline-block;
+  margin-top: 15px;
+  color: #2563eb;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.card {
+  background: #ffffff;
+  border-left: 6px solid #2563eb;
+  padding: 15px;
+  margin: 15px 0;
+  border-radius: 8px;
+}
+
+button {
+  background-color: #2563eb;
+  color: white;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #1e40af;
+}
